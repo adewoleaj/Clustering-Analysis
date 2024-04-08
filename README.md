@@ -66,11 +66,25 @@ Three clusters of countries were identified:
 - **Cluster 2**: These countries demonstrate high internet usage, moderate healthcare and education expenditure, moderate GDP with a slightly high dependence on services.
 - **Cluster 5**: These countries show moderate internet usage, moderate healthcare expenditure, low education expenditure, and moderate GDP with a dependency on services.
 
-Recommendations:
+## Recommendations:
 - Cluster 5 countries offer viable prospects for tourism services, but efforts to improve education and diversify the economy are necessary for sustainable growth.
+
+# Usage
+
+To run the script:
+1. Clone this repository.
+2. Ensure you have the required packages installed (`pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`).
+3. No additional configuration is required beyond the installation steps. However, you may need to adjust the path to your dataset and model directory according to your local setup.
+4. Run the Python script `Tourism(Hierarchical)clustering).py`,`Product_Segmentation_Case_Study(DBScan).py` & `Engineering_college_clustering(Kmean_clustering).py`.
 
 ## License
 
-This project does not have a license and is provided for educational and informational purposes only. It is not open-source software, and you may not use, modify, or distribute it without explicit permission from the author.
+This project does not have a license and is provided for educational and informational purposes only.
 
+## Author
 
+**Adewole Adetoro Ajala**
+
+For any inquiries, please contact: woltoaj@gmail.com / woltoajai@gmail.com
+
+Feel free to contribute or provide feedback.
