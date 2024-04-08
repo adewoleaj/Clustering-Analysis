@@ -23,6 +23,10 @@ The dataset contains survey results from 26 engineering colleges, covering facto
 
 ### Results and Recommendations
 Three distinct clusters of engineering colleges were identified:
+
+![Engineering College Clusters](https://github.com/adewoleaj/Clustering-Analysis/blob/main/Engineering%20college%20clusters.png?raw=true)
+
+
 - **Cluster 0 (Tier 3 colleges)**: These colleges exhibit low teaching quality, poor infrastructure, and low placement opportunities. They should focus on improving teaching quality, infrastructure, and placement opportunities.
 - **Cluster 1 (Tier 1 colleges)**: These colleges demonstrate high teaching quality, excellent infrastructure, and high placement rates. They can leverage their strengths to attract top candidates for placements.
 - **Cluster 2 (Tier 2 colleges)**: These colleges have moderate teaching quality, infrastructure, and placement rates. They should invest in enhancing teaching and infrastructure to elevate their status.
